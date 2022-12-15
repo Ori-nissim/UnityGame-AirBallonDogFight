@@ -1,5 +1,5 @@
 # UnityGame-AirBallonDogFight
-Destroy all targets and don't get hit by anything!
+I developed this game in 3 days, the goal is to destroy all targets and don't get hit by anything!
 ### Features
 * Plane physics & movement implemented by me
 * URP for better graphics & efficiency
